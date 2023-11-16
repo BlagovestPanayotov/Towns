@@ -5,4 +5,4 @@ Code for the Git and GitHub Exercise
     • Bobo3 takes the role "Styler"
 
 
-test commit Bobo1
+test commit Bobo3
